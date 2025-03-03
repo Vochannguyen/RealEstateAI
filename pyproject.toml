@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "customchatbot"
+version = "0.1.0"
+description = "Udacity Project2"
+authors = ["Vochannguyen <110003333+Vochannguyen@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+# Ignore the dev.env file
+dev.env
+
+# Ignore the other_notebooks folder
+other_notebooks/
